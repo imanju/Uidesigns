@@ -1,4 +1,4 @@
-# This Project based on Habib Dev. UI Challenges Project - Self made.
+
 # Restrant Mobile App UI User Interface Modern Design Project with ionic 5 and Angular Framework V9.
 
 
